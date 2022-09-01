@@ -10,7 +10,7 @@ An app to plan your goals with user authentication created using MERN Stack
 
 ## About ℹ️
 
-An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A user can login and track their goals they have set. While creating this project I learned about `REST-API`, `Mongoose` `MongoDB`, `ExpressJS`, `ReactJS`, `NodeJS` etc. After creating the project, it was deployed to `AWS` :bird: Feel free to reach me on[Twitter](https://twitter.com/hmjatt/)
+An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A user can login and track their goals they have set. While creating this project I learned about `REST-API`, `Mongoose` `MongoDB`, `ExpressJS`, `ReactJS`, `NodeJS`, `Postman` etc. After creating the project, it was deployed to `AWS` :bird: Feel free to reach me on[Twitter](https://twitter.com/hmjatt/)
 
 
 ## Technologies Used 💻
@@ -29,6 +29,7 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 	- NodeJS
 	- AWS EC2
     - create-react-app
+	- Postman
 
 
 

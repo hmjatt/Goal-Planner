@@ -92,8 +92,9 @@ npm start
     - [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
     - [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
 	
-5. AWS EC2 Hosting
+5. Deployment
 
+	- [How to Deploy a MERN Application to Heroku Using MongoDB Atlas](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
 	- [How to build and deploy a MERN ( React + Express + MongoDB + Node.js ) Stack Application on AWS EC2](https://dev.to/abdulwaqar844/how-to-build-and-deploy-a-mernreactexpressmongodbnodejs-stack-application-on-aws-ec2-3e93)
 
 6. Others 

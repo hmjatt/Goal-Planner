@@ -95,6 +95,9 @@ npm start
 
 	- [How to build and deploy a MERN ( React + Express + MongoDB + Node.js ) Stack Application on AWS EC2](https://dev.to/abdulwaqar844/how-to-build-and-deploy-a-mernreactexpressmongodbnodejs-stack-application-on-aws-ec2-3e93)
 
+6. Others 
+
+	- [REST API for Network Engineers](https://networkop.co.uk/blog/2016/01/01/rest-for-neteng/)
 <br>
 
 #### Quote ✒️

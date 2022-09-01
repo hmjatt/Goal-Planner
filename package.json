@@ -1,0 +1,19 @@
+{
+  "name": "goal-planner",
+  "version": "1.0.0",
+  "description": "Goal Planner app in MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmjatt/Goal-Planner.git"
+  },
+  "author": "Harmeet Matharoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmjatt/Goal-Planner/issues"
+  },
+  "homepage": "https://github.com/hmjatt/Goal-Planner#readme"
+}

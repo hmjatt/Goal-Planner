@@ -61,6 +61,15 @@ npm start
 
 <br>
 
+## Steps I followed to complete this project 🪜
+
+### 1. REST API For Goals
+
+### 2. JWT Authentication
+
+
+<br>
+
 ## Future Changes ♾️
 
 <!-- -   [x] CSS - Put *Real Dots* on the *Dice*.

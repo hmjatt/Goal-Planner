@@ -28,9 +28,13 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 	- MongoDB
 	- NodeJS
 	- Heroku
-    - create-react-app
 	- Postman
 	- JWT
+	- dotenv
+	- colors
+	- mongoose
+	- nodemon
+	- express-async-handler
 
 
 

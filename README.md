@@ -25,6 +25,7 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 	- MERN Stack
     - ReactJS
 	- ExpressJS
+	- Redux
 	- MongoDB
 	- NodeJS
 	- Heroku

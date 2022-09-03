@@ -63,9 +63,13 @@ npm start
 
 ## Steps I followed to complete this project 🪜
 
-### 1. REST API For Goals
+### 1. REST API For Goals ✅
 
 ### 2. JWT Authentication
+
+### 3. Frontend Authentication | Redux Toolkit
+
+### 4. Redux Goals & Deploy
 
 
 <br>

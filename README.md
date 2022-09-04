@@ -102,6 +102,11 @@ npm start
 4. JWT(JSON Web Tokens)
 
 	- [Official Website](https://jwt.io/)
+
+5. YouTube
+
+	- [Traversy Media(Learn The MERN Stack)](https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm)
+
 7. Others 
 
 	- [REST API for Network Engineers](https://networkop.co.uk/blog/2016/01/01/rest-for-neteng/)

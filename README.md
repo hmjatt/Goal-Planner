@@ -66,7 +66,7 @@ npm start
 
 ### 1. REST API For Goals ✅
 
-### 2. JWT Authentication
+### 2. JWT Authentication ✅
 
 ### 3. Frontend Authentication | Redux Toolkit
 

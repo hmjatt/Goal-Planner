@@ -106,8 +106,10 @@ npm start
 5. YouTube
 
 	- [Traversy Media(Learn The MERN Stack)](https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm)
-	
+
 	- [FreeCodeCamp(MERN Stack Course)](https://www.youtube.com/watch?v=mrHNSanmqQ4)
+
+	- [FreeCodeCamp(Learn the MERN Stack)](https://www.youtube.com/watch?v=7CqJlxBYj-M)
 
 7. Others 
 

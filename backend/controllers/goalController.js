@@ -48,7 +48,7 @@ const updateGoal = asyncHandler(async (req, res) => {
 // @route DELETE /api/goals/:id
 // @access Private
 const deleteGoal = asyncHandler(async (req, res) => {
-	const goal = await Goal.findById(req.params.id);
+    const goal = await Goal.findById(req.params.id);
 
     if (!goal) {
         res.status(400);

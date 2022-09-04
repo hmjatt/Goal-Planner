@@ -30,13 +30,13 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 	- NodeJS
 	- Heroku
 	- Postman
-	- JWT(JSON Web Tokens)
+	- JWT(JSON Web Token)
 	- dotenv
 	- colors
 	- mongoose
 	- nodemon
 	- express-async-handler
-	- bcrypt
+	- bcryptjs
 
 
 

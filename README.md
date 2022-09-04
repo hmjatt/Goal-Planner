@@ -85,38 +85,17 @@ npm start
 <br>
 
 ## Links to content that helped me with this project 🔗
-
-1. The Odin Project
-
-    - [React Introduction](https://www.theodinproject.com/lessons/node-path-javascript-react-introduction)
-    - [React State & Props](https://www.theodinproject.com/lessons/node-path-javascript-state-and-props)
-    - [Handle Inputs And Render Lists](https://www.theodinproject.com/lessons/node-path-javascript-handle-inputs-and-render-lists)
-
-2. YouTube
-
-    - [Learn The MERN Stack - Express & MongoDB Rest API](https://www.youtube.com/watch?v=-0exw-9YJBo)
-
-3. Scrimba
-
-    - [Learn React](https://scrimba.com/learn/learnreact)
-
-4. React Official Documentation
-
-    - [Mouse Events in React](https://reactjs.org/docs/events.html#mouse-events)
-    - [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-    - [Handling Events](https://reactjs.org/docs/handling-events.html)
-    - [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
-    - [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
-    - [Forms](https://reactjs.org/docs/forms.html)
-    - [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
-    - [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
 	
-5. Deployment
+1. Deployment
 
 	- [How to Deploy a MERN Application to Heroku Using MongoDB Atlas](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
 	- [How to build and deploy a MERN ( React + Express + MongoDB + Node.js ) Stack Application on AWS EC2](https://dev.to/abdulwaqar844/how-to-build-and-deploy-a-mernreactexpressmongodbnodejs-stack-application-on-aws-ec2-3e93)
 
-6. Others 
+2. Postman 
+
+	- [Official Website](https://www.postman.com/)
+
+7. Others 
 
 	- [REST API for Network Engineers](https://networkop.co.uk/blog/2016/01/01/rest-for-neteng/)
 <br>

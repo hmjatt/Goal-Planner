@@ -8,13 +8,15 @@ const initialState = {
     message: "",
 };
 
-export const goalSlice = createSlice ({
-	name: "goal",
-	initialState,
-	reducers: {
-		reset: (state) => initialState
-	}
-})
+// Create new Goal
 
-export const {reset} = goalSlice.actions
-export default goalSlice.reducer
+export const goalSlice = createSlice({
+    name: "goal",
+    initialState,
+    reducers: {
+        reset: (state) => initialState,
+    },
+});
+
+export const { reset } = goalSlice.actions;
+export default goalSlice.reducer;

@@ -1,5 +1,91 @@
+import { useState, useEffect } from "react";
+import { FaUser } from "react-icons/fa";
+
 function Register() {
-    return <div>Register</div>;
+    const [formData, setFormData] = useState({
+        name: "",
+        email: "",
+        password: "",
+        Password2: "",
+    });
+
+    const { name, email, password, password2 } = formData;
+
+    const onFormChange = (e) => {
+        setFormData((prevState) => ({
+            ...prevState,
+            [e.target.name]: e.target.value,
+        }));
+    };
+
+    const onFormSubmit = (e) => {
+        e.preventDefault();
+    };
+
+    return (
+        <>
+            <section className="heading">
+                <h1>
+                    <FaUser /> Register
+                </h1>
+                <p>Please create an account</p>
+            </section>
+
+            <section className="form">
+                <form onSubmit={onFormSubmit}>
+                    <div className="form-group">
+                        <input
+                            type="text"
+                            className="form-control"
+                            id="name"
+                            name="name"
+                            value={name}
+                            placeholder="Enter your name"
+                            onChange={onFormChange}
+                        />
+                    </div>
+                    <div className="form-group">
+                        <input
+                            type="email"
+                            className="form-control"
+                            id="email"
+                            name="email"
+                            value={email}
+                            placeholder="Enter your email"
+                            onChange={onFormChange}
+                        />
+                    </div>
+                    <div className="form-group">
+                        <input
+                            type="password"
+                            className="form-control"
+                            id="password"
+                            name="password"
+                            value={password}
+                            placeholder="Enter password"
+                            onChange={onFormChange}
+                        />
+                    </div>
+                    <div className="form-group">
+                        <input
+                            type="password"
+                            className="form-control"
+                            id="password2"
+                            name="password2"
+                            value={password2}
+                            placeholder="Confirm password"
+                            onChange={onFormChange}
+                        />
+                    </div>
+                    <div className="form-group">
+                        <buttom type="submit" className="btn btn-block">
+                            Submit
+                        </buttom>
+                    </div>
+                </form>
+            </section>
+        </>
+    );
 }
 
 export default Register;

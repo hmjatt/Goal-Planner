@@ -74,7 +74,7 @@ npm start
 
 ### 2. JWT Authentication ✅
 
-### 3. Frontend Authentication | Redux Toolkit
+### 3. Frontend Authentication | Redux Toolkit ✅
 
 ### 4. Redux Goals & Deploy
 

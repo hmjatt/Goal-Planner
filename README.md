@@ -41,6 +41,8 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 	- react-router-dom
 	- react-icons
 	- concurrently(Dev Dependency)
+	- axios
+	- react-toastify
 
 
 

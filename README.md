@@ -37,6 +37,7 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 	- nodemon
 	- express-async-handler
 	- bcryptjs
+	- create-react-app
 
 
 

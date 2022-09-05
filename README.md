@@ -34,12 +34,13 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 	- dotenv
 	- colors
 	- mongoose
-	- nodemon
+	- nodemon(Dev Dependency)
 	- express-async-handler
 	- bcryptjs
 	- create-react-app
 	- react-router-dom
 	- react-icons
+	- concurrently(Dev Dependency)
 
 
 

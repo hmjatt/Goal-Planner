@@ -38,6 +38,8 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 	- express-async-handler
 	- bcryptjs
 	- create-react-app
+	- react-router-dom
+	- react-icons
 
 
 

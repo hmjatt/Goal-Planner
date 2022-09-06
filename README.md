@@ -2,7 +2,7 @@
 
 An app to plan your goals with user authentication created using MERN Stack
 
-## [Live Preview](https://mernapphmjatt.herokuapp.com/login)
+## 👉 [Live Preview](https://mernapphmjatt.herokuapp.com/login) (Server takes about 10 seconds to boot)
 
 ![This is an image](https://github.com/hmjatt/Goal-Planner/blob/main/screenshots/Register.png)
 ![This is an image](https://github.com/hmjatt/Goal-Planner/blob/main/screenshots/Goal.png)

@@ -2,10 +2,12 @@
 
 An app to plan your goals with user authentication created using MERN Stack
 
-<!-- ## [Live Preview](https://mernapphmjatt.herokuapp.com/login)
+## [Live Preview](https://mernapphmjatt.herokuapp.com/login)
 
-![This is an image]()
-![This is an image]() -->
+![This is an image](https://github.com/hmjatt/Goal-Planner/blob/main/screenshots/Register.png)
+![This is an image](https://github.com/hmjatt/Goal-Planner/blob/main/screenshots/Welcome.png)
+![This is an image](https://github.com/hmjatt/Goal-Planner/blob/main/screenshots/Goal.png)
+![This is an image](https://github.com/hmjatt/Goal-Planner/blob/main/screenshots/Login.png)
 
 
 ## About ℹ️

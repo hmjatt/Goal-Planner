@@ -2,7 +2,7 @@
 
 An app to plan your goals with user authentication created using MERN Stack
 
-<!-- ## [Live Preview](https://hmjatt.github.io/Goal-Planner/)
+<!-- ## [Live Preview](https://mernapphmjatt.herokuapp.com/login)
 
 ![This is an image]()
 ![This is an image]() -->
@@ -71,13 +71,14 @@ npm start
 
 ### 3. Frontend Authentication | Redux Toolkit ✅
 
-### 4. Redux Goals & Deploy on Heroku
+### 4. Redux Goals & Deploy on Heroku ✅
 
 
 <br>
 
 ## Future Changes ♾️
 
+-   [ ] Edit Goals.
 -   [ ] Add more fields.
 -   [ ] Deploy to AWS.
 

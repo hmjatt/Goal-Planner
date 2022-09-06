@@ -51,11 +51,6 @@ An implementation of **`Goal Planner`** in `ReactJS` with user authentication. A
 ## Usage 🤓
 
 ```
-cd goal-planner
-
-```
-
-```
 npm install
 
 ```
@@ -76,17 +71,16 @@ npm start
 
 ### 3. Frontend Authentication | Redux Toolkit ✅
 
-### 4. Redux Goals & Deploy
+### 4. Redux Goals & Deploy on Heroku
 
 
 <br>
 
 ## Future Changes ♾️
 
-<!-- -   [x] CSS - Put *Real Dots* on the *Dice*.
--   [ ] JS - Track Number of *Rolls* it took to win the game.
--   [ ] JS - Track the *time* it took to win the game.
--   [ ] JS - Save *Best Time/Rolls* to `localStorage` and try to beat the record. -->
+-   [ ] Add more fields.
+-   [ ] Deploy to AWS.
+
 
 
 <br>
